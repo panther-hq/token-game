@@ -1,0 +1,18 @@
+{
+  "name": "root/token-game",
+  "require-dev": {
+    "phpspec/phpspec": "^4.3"
+  },
+  "authors": [
+    {
+      "name": "wsliwka",
+      "email": "wojciech.sliwka@proget.pl"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "TokenGame\\": "src/"
+    }
+  }
+}
